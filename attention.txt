@@ -1,2 +1,1 @@
-std::cout<<"Svyatomu hui!";
-std::cout<<"rpz tuda zhe";
+std::cout<<"Heil!";
